@@ -8,4 +8,6 @@ This tutorial is a guide to building two basic types of zero-shot classifier.
 1. Single-Class Classifier (Only themes)
 2. Multi-Class (Themes & Subthemes)
 
-All you need is two csv files, one containing the reviews you want to classify and the [other](layers.csv) conatining the themes for your classification.  
+All you need is two csv files, [one](README.md) containing the reviews you want to classify and the [other](layers.csv) conatining the themes for your classification.  
+
+**Get !! Set !! Go !!**
